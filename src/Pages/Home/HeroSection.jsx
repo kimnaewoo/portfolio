@@ -13,11 +13,11 @@ export default function HeroSection() {
             <br />
             Dolorum, quas. Amet soluta assumenda cum?
           </p>
+          <button className="btn btn-primary">Get In Touch</button>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
-        <div className="hero--section--img">
-          <img src="./img/hero_img.jpg" alt="Hero Section" />
-        </div>
+      </div>
+      <div className="hero--section--img">
+        <img src="./img/hero_img.jpg" alt="Hero Section" />
       </div>
     </section>
   );
