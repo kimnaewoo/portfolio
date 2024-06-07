@@ -9,7 +9,12 @@ export default function MyPortfolio() {
           <h2 className="section--heading">My PortFolio</h2>
         </div>
         <div>
-          <button className="btn btn-github">
+          <button
+            className="btn btn-github"
+            onClick={() => {
+              window.open('https://github.com/kimnaewoo');
+            }}
+          >
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 33 33" fill="none">
               <path
                 fill-rule="evenodd"

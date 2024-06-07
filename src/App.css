@@ -509,6 +509,7 @@ input[type='checkbox'] {
 }
 .footer--items ul > li > a {
   text-decoration: none;
+  cursor: pointer;
 }
 .footer--social--icon > ul {
   list-style: none;

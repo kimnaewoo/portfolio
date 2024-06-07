@@ -2,31 +2,51 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
-      "link": "View in Github"
+      "src": "./img/html.png",
+      "title": "HTML5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
-      "link": "View in Github"
+      "src": "./img/css.png",
+      "title": "CSS3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UX & UI",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
-      "link": "View in Github"
+      "src": "./img/javascript.png",
+      "title": "Javascript",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
-      "link": "View in Github"
+      "src": "./img/react.png",
+      "title": "React",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+    },
+    {
+      "id": "5",
+      "src": "./img/scss.png",
+      "title": "SCSS",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+    },
+    {
+      "id": "6",
+      "src": "./img/vue.png",
+      "title": "Vue3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+    },
+    {
+      "id": "7",
+      "src": "./img/mongodb.png",
+      "title": "MongoDB",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+    },
+    {
+      "id": "8",
+      "src": "./img/gitlab.png",
+      "title": "gitLAB",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
     }
   ],
   "portfolio": [

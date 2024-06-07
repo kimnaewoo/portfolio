@@ -9,7 +9,7 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills--section--heading">About Me</h1>
           <p className="hero--section--description">
-            안녕하십니까.
+            안녕하세요!
             <br />
             다양한 배경으로 성장에 노하우가 있는 프론트엔드 신입개발자 김내우입니다. 최신 기술과 이슈를 끊임없이
             연구하고 꾸준히 학문을 쌓아, 작은 부분까지도 가장 효율적인 방법으로 구현할수 있는 개발자가 되는것이
