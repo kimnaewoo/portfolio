@@ -10,7 +10,7 @@ function App() {
         <div>
           <Navbar />
           <Routes>
-            <Route path="/" element={<Home />}></Route>
+            <Route path="/portfolio" element={<Home />}></Route>
             <Route path="*" element={<div>404 Not Found</div>}></Route>
           </Routes>
         </div>
