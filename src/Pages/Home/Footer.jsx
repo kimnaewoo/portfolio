@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="footer--link--container">
         <div>
           {/* <img src="./img/logo.svg" alt="Logoipsum" /> */}
-          <h1>KIMNAEWOO</h1>
+          <h1 className="nav__title">KIMNAEWOO</h1>
         </div>
         <div className="footer--items">
           <ul>

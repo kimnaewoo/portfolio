@@ -670,6 +670,13 @@ input[type='checkbox'] {
   border-radius: 0.625rem;
   transition: all ease-in-out 0.2s;
 }
+@media only screen and (max-width: 495px) {
+  .nav__title {
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 50px;
+  }
+}
 
 @media screen and (max-width: 1200px) {
   .nav__hamburger {

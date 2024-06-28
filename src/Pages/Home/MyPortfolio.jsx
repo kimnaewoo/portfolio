@@ -6,7 +6,7 @@ export default function MyPortfolio() {
       <div className="portfolio--container--box">
         <div className="portfolio--container">
           <p className="sub--title">Recent Projects</p>
-          <h2 className="section--heading">My PortFolio</h2>
+          <h2 className="section--heading">My Project</h2>
         </div>
         <div>
           <button
