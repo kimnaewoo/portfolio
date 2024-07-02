@@ -679,6 +679,17 @@ input[type='checkbox'] {
   border-radius: 0.625rem;
   transition: all ease-in-out 0.2s;
 }
+@media only screen and (max-width: 375px) {
+  .section--title {
+    font-size: 19px;
+  }
+  .hero--section--description {
+    color: var(--darkblue);
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 15px;
+  }
+}
 @media only screen and (max-width: 495px) {
   .nav__title {
     font-size: 34px;

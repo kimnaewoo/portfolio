@@ -3,12 +3,12 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">안녕하세요! 김내우입니다!</p>
+          <p className="section--title">안녕하세요. 김내우입니다!</p>
           <h1 className="hero--section--title">
             <span className="hero--section--title--color">Frontend</span> <br />
             Developer
           </h1>
-          <p className="hero--section-description">
+          <p className="hero--section--description">
             안녕하세요!
             <br />
             다양한 배경으로 성장에 노하우가 있는 프론트엔드 신입개발자 김내우입니다. 최신 기술과 이슈를 끊임없이

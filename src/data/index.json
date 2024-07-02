@@ -4,57 +4,57 @@
       "id": "1",
       "src": "./img/html.png",
       "title": "HTML5",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "웹 접근성과 표준성을 준수하며, 시멘틱태그를 이용하여 마크업 할수 있습니다."
     },
     {
       "id": "2",
       "src": "./img/css.png",
       "title": "CSS3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "position, display를 적절히 사용하여 반응형 웹을 적용할 수 있습니다."
     },
     {
       "id": "3",
       "src": "./img/javascript.png",
       "title": "Javascript",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "javascipt의 배열,메소드,DOM을 이해하며 다양한 상황에 적용할수 있습니다."
     },
     {
       "id": "4",
       "src": "./img/react.png",
       "title": "React",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "React 구조와 여러가지 hook들의 기능을 알고 있으며, 범용적이고 재사용 가능한 컴포넌트 설계를 할수 있습니다."
     },
     {
       "id": "5",
       "src": "./img/scss.png",
       "title": "SCSS",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "SCSS의 중첩 규칙과 상속을 적절히 사용하여, 스타일 시트를 최적화 할수 있습니다."
     },
     {
       "id": "6",
       "src": "./img/vue.png",
       "title": "Vue3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "프로젝트 개발 시 Vue3 문법을 통한 for문 및 데이터 사용을 해보았습니다."
     },
     {
       "id": "7",
       "src": "./img/mongodb.png",
       "title": "MongoDB",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "몽고DB에 저장된 데이터의 값을 조회하는 수행을 한적이 있습니다."
     },
     {
       "id": "8",
       "src": "./img/gitlab.png",
       "title": "gitLAB",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique"
+      "description": "GitLab의 계정 연동을 통한, 프로젝트의 모니터링과 개발 및 배포 사용을 경험 했습니다."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
+      "src": "./img/moviesearch.jpg",
+      "title": "Movie Search",
+      "description": "open API, React.js 영화검색프로젝트 핵심기능- TMDB open-API 연결(목록조회, 검색, 페이징 등)- MeterialUI 사용 페이지네이션 개발",
       "link": "View in Github"
     },
     {
