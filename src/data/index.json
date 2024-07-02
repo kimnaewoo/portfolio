@@ -54,21 +54,21 @@
       "id": "1",
       "src": "./img/moviesearch.jpg",
       "title": "Movie Search",
-      "description": "open API, React.js 영화검색프로젝트 핵심기능- TMDB open-API 연결(목록조회, 검색, 페이징 등)- MeterialUI 사용 페이지네이션 개발",
+      "description": "TMDB open API 를 바탕으로 하여 React 문법을 사용하여 만든 영화검색 프로젝트 - Material UI를 사용하여 페이지네이션 개발",
       "link": "View in Github"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
+      "src": "./img/portfolio.jpg",
+      "title": "My portfolio",
+      "description": "React, CSS, Javascript 를 이용한 포트폴리오, 클릭시, 새창으로 이동, 간단한 자기소개 및 개인프로젝트 와 화면크기에 맞춘 반응형 구현",
       "link": "View in Github"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse variu eim in eros elemetum tristique",
+      "src": "./img/fitclub.jpg",
+      "title": "Fit Club",
+      "description": "React 기반의 웹페이지 마크업 핵심기능 - 리액트 애니메이션 및 라이브러리 활용 (frame-motion, react-scroll) 및 화면크기에 맞춘 반응형 구현",
       "link": "View in Github"
     }
   ],
