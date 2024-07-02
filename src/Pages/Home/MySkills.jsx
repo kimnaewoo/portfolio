@@ -1,7 +1,6 @@
 import data from '../../data/index.json';
 
 export default function MySkills() {
-  console.log(data?.skills);
   return (
     <section className="skills--section" id="mySkills">
       <div className="portfolio--container">
@@ -24,4 +23,3 @@ export default function MySkills() {
     </section>
   );
 }
-

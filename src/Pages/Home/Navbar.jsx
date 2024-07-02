@@ -67,6 +67,20 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
+              to="mySkills"
+              className="navbar--content"
+            >
+              My skill
+            </Link>
+          </li>
+          <li>
+            <Link
+              onClick={closeMenu}
+              activeClass="navbar--active-content"
+              spy={true}
+              smooth={true}
+              offset={-70}
+              duration={500}
               to="AboutMe"
               className="navbar--content"
             >
@@ -85,21 +99,6 @@ function Navbar() {
               className="navbar--content"
             >
               My Project
-            </Link>
-          </li>
-
-          <li>
-            <Link
-              onClick={closeMenu}
-              activeClass="navbar--active-content"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={500}
-              to="testimonial"
-              className="navbar--content"
-            >
-              Testimonials
             </Link>
           </li>
         </ul>
