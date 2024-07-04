@@ -19,7 +19,6 @@ export default function HeroSection() {
             빠르게 변하는 웹개발트랜드 속에서, 다양한 경험으로 배경을 갖춘 저에게 비전공은 더 큰 전공이라고 생각하고,
             새로운 시도와 함께 사용자 입장을 고려하며 성실하게 성장하는 프론트엔드 개발자가 되겠습니다.
           </p>
-          {/* <button className="btn btn-primary">Get In Touch</button> */}
         </div>
       </div>
       <div className="hero--section--img">

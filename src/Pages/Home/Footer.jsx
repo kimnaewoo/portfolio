@@ -31,10 +31,23 @@ export default function Footer() {
                 smooth={true}
                 offset={-70}
                 duration={500}
+                to="mySkills"
+                className="navbar--content"
+              >
+                My skill
+              </Link>
+            </li>
+            <li>
+              <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
                 to="MyPortFolio"
                 className="text-md"
               >
-                Portfolio
+                My project
               </Link>
             </li>
             <li>
@@ -61,19 +74,6 @@ export default function Footer() {
                 className="text-md"
               >
                 Contact
-              </Link>
-            </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="text-md"
-              >
-                Testimonials
               </Link>
             </li>
           </ul>
