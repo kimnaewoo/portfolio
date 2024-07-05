@@ -76,7 +76,7 @@
     },
     {
       "id": "4",
-      "src": "./img/login.jpg",
+      "src": "./img/",
       "title": "Login & Sign Up",
       "description": "React - BrowserRouter로 제작하였으며, LocalStorage에 데이터를 저장하여 로그인&회원가입 웹 페이지입니다.",
       "link": " Learn more",
