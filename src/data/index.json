@@ -52,11 +52,11 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/moviesearch.jpg",
-      "title": "Movie Search",
-      "description": "TMDB open API 를 바탕으로 하여 React 문법을 사용하여 만든 영화검색 프로젝트 - Material UI를 사용하여 페이지네이션 개발",
+      "src": "./img/movie.jpg",
+      "title": "Movie",
+      "description": " React, CSS, Javascript 기반, TMDB open API 를 사용한 2024년 7월 영화소개 웹페이지 ",
       "link": "Learn more",
-      "url": "https://kimnaewoo.github.io/kimnaewoo-seach-pj/"
+      "url": "https://kimnaewoo.github.io/movie/"
     },
     {
       "id": "2",
