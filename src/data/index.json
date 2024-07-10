@@ -54,7 +54,7 @@
       "id": "1",
       "src": "./img/movie.jpg",
       "title": "Movie",
-      "description": " React(Router), CSS, Javascript 기반, TMDB open API를 기준 세계 영화소개 웹페이지 입니다.",
+      "description": " React - BrowserRouter, CSS, Javascript 로 제작하였으며, TMDB open API source를 기준으로하여 만든 세계 영화소개 웹페이지 프로젝트입니다. ",
       "link": "Learn more",
       "url": "https://kimnaewoo.github.io/movie/"
     },

@@ -1,8 +1,10 @@
 export default function ContactMe() {
+  const submit = () => {
+    alert(' 준비중입니다 ! ');
+  };
   return (
     <section id="Contact" className="contact--section">
       <div>
-        <p className="sub--title">Get In Touch</p>
         <h2>Contact Me</h2>
         <p className="text-lg">감사합니다. :)</p>
       </div>
@@ -29,9 +31,10 @@ export default function ContactMe() {
           <span className="text-md">Choose a topic</span>
           <select id="choose-topic" className="contact--input text-md">
             <option>Select Project</option>
-            <option>Project 1</option>
-            <option>Project 2</option>
-            <option>Project 3</option>
+            <option>Project Movie</option>
+            <option>Project MyPortfolio</option>
+            <option>Project Fit Club</option>
+            <option>Project Login& Signup</option>
           </select>
         </label>
         <label htmlFor="message" className="contact--label">
@@ -40,7 +43,9 @@ export default function ContactMe() {
         </label>
       </form>
       <div>
-        <button className="btn btn-primary contact--form--btn">Submit</button>
+        <button className="btn btn-primary contact--form--btn" onClick={submit}>
+          메일 회신하기
+        </button>
       </div>
     </section>
   );
