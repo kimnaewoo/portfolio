@@ -54,7 +54,7 @@
       "id": "1",
       "src": "./img/movie.jpg",
       "title": "Movie",
-      "description": " React, CSS, Javascript 기반, TMDB open API 를 사용한 2024년 7월 영화소개 웹페이지 ",
+      "description": " React(Router), CSS, Javascript 기반, TMDB open API를 기준 세계 영화소개 웹페이지 입니다.",
       "link": "Learn more",
       "url": "https://kimnaewoo.github.io/movie/"
     },
@@ -70,7 +70,7 @@
       "id": "3",
       "src": "./img/fitclub.jpg",
       "title": "Fit Club",
-      "description": "React 기반의 웹페이지 마크업 핵심기능 - 리액트 애니메이션 및 라이브러리 활용 (frame-motion, react-scroll) 및 화면크기에 맞춘 반응형 구현",
+      "description": "React 기반의 웹페이지 마크업이며, 핵심기능으로는 리액트 애니메이션 및 라이브러리 활용 (frame-motion, react-scroll) 및 화면크기에 맞춘 반응형 구현",
       "link": "Learn more",
       "url": "https://kimnaewoo.github.io/"
     },
